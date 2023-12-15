@@ -4,6 +4,6 @@ I totally bit my friend 🅱o🅱eph 🅱ai and made this repo to put configurat
 
 *But guess what 🅱ooOh🅱eph? I done took a real good hlook at your repo. And it sure looks like you might need a swiffer:*
 
-[MIT License? More like 🅱opy 🅱aste license 🤙🥴🤙.](boOhfiles.png)
+![MIT License? More like 🅱opy 🅱aste license 🤙🥴🤙.](boOhfiles.png)
 
 *Cuz your repo license lookin' a little DU_TY.* ***Hehheh***. *My repo now 🤙🥴🤙*.
