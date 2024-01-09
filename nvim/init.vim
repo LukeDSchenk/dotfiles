@@ -74,6 +74,8 @@ Plug 'morhetz/gruvbox'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 " The official Rust Vim plugin - it's only loaded when a Rust file is opened.
 Plug 'rust-lang/rust.vim', { 'for': 'rust' }
+" Solidity syntax highlighting plugin.
+Plug 'thesis/vim-solidity', {'branch': 'main' }
 call plug#end()
 
 
