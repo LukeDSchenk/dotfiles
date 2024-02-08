@@ -76,6 +76,8 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': 
 Plug 'rust-lang/rust.vim', { 'for': 'rust' }
 " Solidity syntax highlighting plugin.
 Plug 'thesis/vim-solidity', {'branch': 'main' }
+" Zen mode plugin.
+Plug 'folke/zen-mode.nvim'
 call plug#end()
 
 
