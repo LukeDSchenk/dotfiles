@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/luke/Projects/maraud-earth/parser/src'
+let g:netrw_dirhist_3='/home/luke/Projects/maraud-earth/parser'
+let g:netrw_dirhist_2='/home/luke/Projects/maraud-earth/parser/src'
+let g:netrw_dirhist_1='/home/luke/Projects/maraud-earth/parser'
+let g:netrw_dirhist_0='/home/luke/Projects/maraud-earth/api/src'
+let g:netrw_dirhist_9='/home/luke/Projects/maraud-earth/parser/src'
+let g:netrw_dirhist_8='/home/luke/Projects/maraud-earth/static'
+let g:netrw_dirhist_7='/home/luke/Projects/maraud-earth/parser/src'
+let g:netrw_dirhist_6='/home/luke/Projects/maraud-earth/parser'
+let g:netrw_dirhist_5='/home/luke/Projects/maraud-earth/api/src'
